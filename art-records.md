@@ -68,7 +68,7 @@ The information below will be registered with the IANA according to section 8.1 
 ```
 Extension identifier: artRecord
 
-Registry operator: CentralNic
+Registry operator: .ART
 
 Published specification: this document
 

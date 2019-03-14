@@ -37,7 +37,7 @@ The members of the array are nameserver objects.
 ```
 Extension identifier: platformNS
 
-Registry operator: CentralNic
+Registry operator: Any
 
 Published specification: this document
 

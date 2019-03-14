@@ -28,7 +28,7 @@ The semantics of this value are server-specific and not currently defined.
 ```
 Extension identifier: regType
 
-Registry operator: CentralNic
+Registry operator: Any
 
 Published specification: this document
 
