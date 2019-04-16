@@ -18,38 +18,52 @@ RDAP servers which implement this extension MUST insert `artRecord_level_0` into
 
 This extension defines a new JSON data structure for RDAP: an array of objects, where each object represents an Art Record data element.
 
-	"artRecord_record": [
-	  {
-	    "title": "objectType",
-	    "name": "Type of Object",
-	    "value": "a moving-image"
-	  },
-	  {
-	    "title": "materialsAndTechniques",
-	    "name": "Materials & Techniques",
-	    "value": "digitally processed film shot on camera"
-	  },
-	  {
-	    "title": "dimensions",
-	    "name": "Measurements",
-	    "value": "1920x1080 px"
-	  },
-	  {
-	    "title": "title",
-	    "name": "Title",
-	    "value": "John Doe"
-	  },
-	  {
-	    "title": "dateOrPeriod",
-	    "name": "Date or Period",
-	    "value": "2018"
-	  },
-	  {
-	    "title": "maker",
-	    "name": "Maker",
-	    "value": "Jane Doe"
-	  }
-	]
+    "artRecord_record": [{
+            "title": "objectType",
+            "name": "Type of Object",
+            "value": "a moving-image"
+        },
+        {
+            "title": "materialsAndTechniques",
+            "name": "Materials & Techniques",
+            "value": "digitally processed film shot on camera"
+        },
+        {
+            "title": "dimensions",
+            "name": "Measurements",
+            "value": "1920x1080 px"
+        },
+        {
+            "title": "title",
+            "name": "Title",
+            "value": "John Doe"
+        },
+        {
+            "title": "dateOrPeriod",
+            "name": "Date or Period",
+            "value": "2018"
+        },
+        {
+            "title": "maker",
+            "name": "Maker",
+            "value": "Jane Doe"
+        },
+        {
+            "title": "inscriptionsAndMarkings",
+            "name": "Inscriptions And Markings",
+            "value": "'Jane Doe' at the lower right"
+        },
+        {
+            "title": "subject",
+            "name": "Subject",
+            "value": "Landscape"
+        },
+        {
+            "title": "features",
+            "name": "Features",
+            "value": ""
+        }
+    ]
 
 ## Art Record Data Elements
 
