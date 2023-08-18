@@ -1,6 +1,6 @@
 # Registration Type RDAP Extension
 
-The .FEEDBACK top-level domain recognises to types of domains; "standard" domains and "hosted" domains, which are delegated to the nameservers of the registry operator. Registrars can indicate the "type" of a .FEEDBACK domain using the [EPP Registration Type Extension](https://gitlab.centralnic.com/centralnic/epp-registration-type-extension/blob/master/draft-brown-regtype.txt).
+The .FEEDBACK top-level domain recognises to types of domains; "standard" domains and "hosted" domains, which are delegated to the nameservers of the registry operator. Registrars can indicate the "type" of a .FEEDBACK domain using the [EPP Registration Type Extension](https://raw.githubusercontent.com/gbxyz/epp-registration-type-extension/master/draft-brown-regtype.txt).
 
 ## Conventions Used in This Document
 
