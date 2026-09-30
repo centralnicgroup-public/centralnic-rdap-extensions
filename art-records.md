@@ -1,6 +1,6 @@
 # Art Records RDAP Extension
 
-.ART domain names may have additional data elements describing Art Record information; this information is managed by registrars using the [EPP Art Record extension](https://gitlab.centralnic.com/centralnic/epp-artrecord-extension/blob/master/draft-brown-artRecord.txt).
+.ART domain names may have additional data elements describing Art Record information; this information is managed by registrars using the [EPP Art Record extension](https://github.com/centralnicgroup-public/centralnic-epp-artrecord-extension/blob/master/draft-brown-artRecord.txt).
 
 ## Conventions Used in This Document
 
